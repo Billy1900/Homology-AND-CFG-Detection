@@ -1,4 +1,4 @@
-# Homology-and-CFG__detection
+# Homology-and-CFG-detection
 
 ### PyOt5: [Learning website](https://nitratine.net/blog/post/python-guis-with-pyqt/)
 
